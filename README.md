@@ -1,1 +1,1 @@
-document project
+console.log('restart);
